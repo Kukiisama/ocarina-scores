@@ -1,9 +1,23 @@
 [
   {
-    "id": "sample",
-    "title": "小星星（示例）",
+    "id": "score-202611181355",
+    "title": "蝶恋",
     "author": "Kukiisama",
-    "file": "scores/sample.json",
-    "notes": 14
+    "file": "scores/蝶恋.json",
+    "notes": 104
+  },
+  {
+    "id": "score-202611181355-2",
+    "title": "冬の花",
+    "author": "Kukiisama",
+    "file": "scores/冬の花.json",
+    "notes": 216
+  },
+  {
+    "id": "score-202611181355-3",
+    "title": "回梦游仙",
+    "author": "Kukiisama",
+    "file": "scores/回梦游仙.json",
+    "notes": 132
   }
 ]

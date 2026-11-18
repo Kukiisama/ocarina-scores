@@ -1,0 +1,1525 @@
+{
+  "app": "oot-ocarina-arranger",
+  "version": 1,
+  "cols": 288,
+  "count": 216,
+  "timing": {
+    "bpm": 100,
+    "gridFactor": 8,
+    "defaultLen": 1
+  },
+  "notes": [
+    {
+      "col": 0,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 1,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 2,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 3,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 4,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 5,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 6,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 7,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 9,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 10,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 11,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 13,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 14,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 15,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 17,
+      "len": 1,
+      "midi": 72,
+      "name": "C5",
+      "keys": "摇杆下+L"
+    },
+    {
+      "col": 18,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 19,
+      "len": 1,
+      "midi": 75,
+      "name": "D#5",
+      "keys": "上+L"
+    },
+    {
+      "col": 20,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 21,
+      "len": 1,
+      "midi": 72,
+      "name": "C5",
+      "keys": "摇杆下+L"
+    },
+    {
+      "col": 22,
+      "len": 1,
+      "midi": 75,
+      "name": "D#5",
+      "keys": "上+L"
+    },
+    {
+      "col": 23,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 24,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 25,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 26,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 27,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 28,
+      "len": 1,
+      "midi": 76,
+      "name": "E5",
+      "keys": "下+R"
+    },
+    {
+      "col": 29,
+      "len": 1,
+      "midi": 78,
+      "name": "F#5",
+      "keys": "上+R"
+    },
+    {
+      "col": 30,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 31,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 33,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 34,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 35,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 36,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 37,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 38,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 39,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 41,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 42,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 43,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 45,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 46,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 47,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 49,
+      "len": 1,
+      "midi": 72,
+      "name": "C5",
+      "keys": "摇杆下+L"
+    },
+    {
+      "col": 50,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 51,
+      "len": 1,
+      "midi": 75,
+      "name": "D#5",
+      "keys": "上+L"
+    },
+    {
+      "col": 52,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 53,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 54,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 55,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 56,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 57,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 58,
+      "len": 1,
+      "midi": 87,
+      "name": "D#6",
+      "keys": "上+X"
+    },
+    {
+      "col": 59,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 60,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 61,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 62,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 63,
+      "len": 3,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 67,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 68,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 69,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 70,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 71,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 72,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 73,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 74,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 75,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 77,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 79,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 81,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 82,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 83,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 84,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 85,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 86,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 87,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 89,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 90,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 91,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 93,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 94,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 95,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 97,
+      "len": 1,
+      "midi": 72,
+      "name": "C5",
+      "keys": "摇杆下+L"
+    },
+    {
+      "col": 98,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 99,
+      "len": 1,
+      "midi": 75,
+      "name": "D#5",
+      "keys": "上+L"
+    },
+    {
+      "col": 100,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 101,
+      "len": 1,
+      "midi": 72,
+      "name": "C5",
+      "keys": "摇杆下+L"
+    },
+    {
+      "col": 102,
+      "len": 1,
+      "midi": 75,
+      "name": "D#5",
+      "keys": "上+L"
+    },
+    {
+      "col": 103,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 104,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 105,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 106,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 107,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 108,
+      "len": 1,
+      "midi": 76,
+      "name": "E5",
+      "keys": "下+R"
+    },
+    {
+      "col": 109,
+      "len": 1,
+      "midi": 78,
+      "name": "F#5",
+      "keys": "上+R"
+    },
+    {
+      "col": 110,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 111,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 113,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 114,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 115,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 116,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 117,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 118,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 119,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 121,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 122,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 123,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 125,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 126,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 127,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 129,
+      "len": 1,
+      "midi": 72,
+      "name": "C5",
+      "keys": "摇杆下+L"
+    },
+    {
+      "col": 130,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 131,
+      "len": 1,
+      "midi": 75,
+      "name": "D#5",
+      "keys": "上+L"
+    },
+    {
+      "col": 132,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 133,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 134,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 135,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 136,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 137,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 138,
+      "len": 1,
+      "midi": 87,
+      "name": "D#6",
+      "keys": "上+X"
+    },
+    {
+      "col": 139,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 140,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 141,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 142,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 143,
+      "len": 3,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 149,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 150,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 151,
+      "len": 3,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 154,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 155,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 156,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 157,
+      "len": 1,
+      "midi": 87,
+      "name": "D#6",
+      "keys": "上+X"
+    },
+    {
+      "col": 158,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 159,
+      "len": 3,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 162,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 163,
+      "len": 2,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 165,
+      "len": 2,
+      "midi": 87,
+      "name": "D#6",
+      "keys": "上+X"
+    },
+    {
+      "col": 167,
+      "len": 2,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 169,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 170,
+      "len": 1,
+      "midi": 87,
+      "name": "D#6",
+      "keys": "上+X"
+    },
+    {
+      "col": 171,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 172,
+      "len": 1,
+      "midi": 87,
+      "name": "D#6",
+      "keys": "上+X"
+    },
+    {
+      "col": 173,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 174,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 175,
+      "len": 3,
+      "midi": 83,
+      "name": "B5",
+      "keys": "Y"
+    },
+    {
+      "col": 181,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 182,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 183,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 186,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 187,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 190,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 191,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 193,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 194,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 195,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 196,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 197,
+      "len": 1,
+      "midi": 76,
+      "name": "E5",
+      "keys": "下+R"
+    },
+    {
+      "col": 198,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 199,
+      "len": 1,
+      "midi": 78,
+      "name": "F#5",
+      "keys": "上+R"
+    },
+    {
+      "col": 201,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 203,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 205,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 207,
+      "len": 3,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 213,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 214,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 215,
+      "len": 2,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 217,
+      "len": 2,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 219,
+      "len": 2,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 221,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 222,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 223,
+      "len": 1,
+      "midi": 87,
+      "name": "D#6",
+      "keys": "上+X"
+    },
+    {
+      "col": 224,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 225,
+      "len": 1,
+      "midi": 87,
+      "name": "D#6",
+      "keys": "上+X"
+    },
+    {
+      "col": 226,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 227,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 228,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 229,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 231,
+      "len": 1,
+      "midi": 75,
+      "name": "D#5",
+      "keys": "上+L"
+    },
+    {
+      "col": 232,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 233,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 234,
+      "len": 1,
+      "midi": 75,
+      "name": "D#5",
+      "keys": "上+L"
+    },
+    {
+      "col": 235,
+      "len": 1,
+      "midi": 74,
+      "name": "D5",
+      "keys": "L"
+    },
+    {
+      "col": 236,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 237,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 238,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 239,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 240,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 241,
+      "len": 1,
+      "midi": 87,
+      "name": "D#6",
+      "keys": "上+X"
+    },
+    {
+      "col": 242,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 243,
+      "len": 2,
+      "midi": 78,
+      "name": "F#5",
+      "keys": "上+R"
+    },
+    {
+      "col": 245,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 246,
+      "len": 1,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 247,
+      "len": 2,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 249,
+      "len": 2,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 251,
+      "len": 2,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 253,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 254,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 255,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 256,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 257,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 258,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 259,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 260,
+      "len": 1,
+      "midi": 77,
+      "name": "F5",
+      "keys": "R"
+    },
+    {
+      "col": 261,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 262,
+      "len": 1,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 263,
+      "len": 2,
+      "midi": 84,
+      "name": "C6",
+      "keys": "上+Y"
+    },
+    {
+      "col": 266,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 267,
+      "len": 2,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 269,
+      "len": 1,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 270,
+      "len": 2,
+      "midi": 86,
+      "name": "D6",
+      "keys": "X"
+    },
+    {
+      "col": 273,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 274,
+      "len": 2,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 276,
+      "len": 1,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    },
+    {
+      "col": 277,
+      "len": 1,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 278,
+      "len": 2,
+      "midi": 82,
+      "name": "A#5",
+      "keys": "上+A"
+    },
+    {
+      "col": 282,
+      "len": 2,
+      "midi": 81,
+      "name": "A5",
+      "keys": "A"
+    },
+    {
+      "col": 286,
+      "len": 2,
+      "midi": 79,
+      "name": "G5",
+      "keys": "摇杆上+R"
+    }
+  ]
+}
