@@ -1,0 +1,23 @@
+{
+  "app": "oot-ocarina-arranger",
+  "version": 1,
+  "cols": 20,
+  "count": 14,
+  "timing": { "bpm": 100, "gridFactor": 8, "defaultLen": 1 },
+  "notes": [
+    { "col": 0, "len": 1, "midi": 72 },
+    { "col": 1, "len": 1, "midi": 72 },
+    { "col": 2, "len": 1, "midi": 79 },
+    { "col": 3, "len": 1, "midi": 79 },
+    { "col": 4, "len": 1, "midi": 81 },
+    { "col": 5, "len": 1, "midi": 81 },
+    { "col": 6, "len": 2, "midi": 79 },
+    { "col": 8, "len": 1, "midi": 77 },
+    { "col": 9, "len": 1, "midi": 77 },
+    { "col": 10, "len": 1, "midi": 76 },
+    { "col": 11, "len": 1, "midi": 76 },
+    { "col": 12, "len": 1, "midi": 74 },
+    { "col": 13, "len": 1, "midi": 74 },
+    { "col": 14, "len": 2, "midi": 72 }
+  ]
+}
